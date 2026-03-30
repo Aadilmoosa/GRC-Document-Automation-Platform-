@@ -20,9 +20,14 @@ This generates eight fully written information security policies, each with a po
 
 How the intake form works
 The app walks you through six steps before generating anything:
+
 Step 1 — Company Basics: You enter the company name, industry (from a dropdown of 12 industry types), employee count, headquarters location, and a description of the core product or service. These fields appear throughout every generated document.
+
 Step 2 — Infrastructure: You select your cloud providers (AWS, Azure, GCP, multi-cloud, on-premises, or hybrid) using checkbox tiles, enter your key systems (Salesforce, GitHub, Snowflake, etc.) as tags you add one at a time, and select your identity and authentication platform (Azure AD, Okta, Google Workspace, etc.). These choices determine which specific systems get named in the access control sections, which cloud-specific controls get mentioned, and how the logging and monitoring sections are worded.
+
 Step 3 — Compliance Context: You select which regulatory frameworks are driving your GRC program (SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, CCPA, FERPA, FedRAMP, etc.) and which SOC 2 Trust Services Criteria you want included in scope. You also enter your target audit or certification period. These choices shape the entire framing of the compliance gap documents.
+
 Step 4 — Risk Profile: You set your organization's risk appetite using a slider from Low to High. You select the types of data the company handles (customer PII, financial data, PHI, payment card data, student records, etc.). You can also tag known risks or concerns you want included. The risk appetite setting affects how risk ratings are framed in the risk register, and the data types drive which specific data appears in the risk scenarios.
+
 Step 5 — Current Controls: You select which security controls and programs are already in place — MFA, SSO, quarterly access reviews, an incident response plan, vulnerability scanning, SIEM, EDR, pen testing, vendor risk assessments, encrypted backups, and so on. This is the most important step for the gap analysis documents, because each document's "current state" assessments are driven by what you select here. If you check "MFA enforced," the ISO 27001 gap analysis marks Control 8.5 (Secure Authentication) as Conformant. If you don't check it, the same control is marked Non-Conformant with a gap action.
 Step 6 — Review and Generate: This shows a summary of everything you entered, organized into a clean grid. You can see at a glance which controls are selected, which frameworks are in scope, and what the company profile looks like. When you click Generate, the app runs all five document generators in sequence, showing a live log of which document is being built. Each takes about a second. When all five are done, you get a download panel.
