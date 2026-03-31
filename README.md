@@ -8,6 +8,8 @@ form. Built to demonstrate practical GRC skills and technical breadth as part of
 an active CISA certification preparation portfolio.
 
 ---
+<img width="939" height="862" alt="Screenshot 2026-03-31 at 2 19 51 PM" src="https://github.com/user-attachments/assets/cd9e3330-981b-4f89-9a28-8a4cb0760fc0" />
+
 
 ## What Problem Does It Solve?
 
@@ -62,11 +64,19 @@ select your identity and authentication platform (Azure AD, Okta, Google
 Workspace, etc.). These choices determine which specific systems are named in
 the access control sections and how logging and monitoring sections are worded.
 
+<img width="925" height="855" alt="Screenshot 2026-03-31 at 2 19 59 PM" src="https://github.com/user-attachments/assets/95bc19a3-2299-45fb-88c1-95da8a2d88f6" />
+
+---
+
 **Step 3 — Compliance Context**
 Select which regulatory frameworks are driving your GRC program (SOC 2, ISO
 27001, HIPAA, PCI DSS, GDPR, CCPA, FERPA, FedRAMP, etc.) and which SOC 2
 Trust Services Criteria you want in scope. These choices shape the entire
 framing of the compliance gap documents.
+
+<img width="963" height="861" alt="Screenshot 2026-03-31 at 2 20 23 PM" src="https://github.com/user-attachments/assets/6e71b479-8668-4f52-beb9-f9b85a02b0c8" />
+
+---
 
 **Step 4 — Risk Profile**
 Set your organization's risk appetite using a slider from Low to High and select
@@ -74,6 +84,10 @@ the types of data the company handles (customer PII, financial data, PHI,
 payment card data, student records, etc.). The risk appetite affects how risk
 ratings are framed, and the data types drive which specific data appears in risk
 scenarios.
+
+<img width="941" height="866" alt="Screenshot 2026-03-31 at 2 20 48 PM" src="https://github.com/user-attachments/assets/aa482c11-7565-4e7a-ad05-d41b9ff2bf48" />
+
+---
 
 **Step 5 — Current Controls**
 Select which security controls and programs are already in place — MFA, SSO,
@@ -84,11 +98,19 @@ This is the most important step for the gap analysis documents. If you select
 Authentication) as Conformant. If you don't, it marks it Non-Conformant with
 a remediation action.
 
+<img width="1022" height="865" alt="Screenshot 2026-03-31 at 2 21 03 PM" src="https://github.com/user-attachments/assets/8aff428d-9926-48c2-b6d5-aa605d9f4ebc" />
+
+<img width="1033" height="861" alt="Screenshot 2026-03-31 at 2 22 24 PM" src="https://github.com/user-attachments/assets/cfd9eebd-1de2-4bdd-8993-d47971f08d42" />
+
+---
+
 **Step 6 — Review and Generate**
 A summary of everything you entered appears in a clean grid. When you click
 Generate, the platform runs all five document generators in sequence with a
 live build log. When all five are complete, a download panel appears with one
 button per document plus a Download All option.
+
+<img width="651" height="851" alt="Screenshot 2026-03-31 at 2 22 55 PM" src="https://github.com/user-attachments/assets/49f3fba0-3240-4898-ac31-ee578f69fb2a" />
 
 ---
 
