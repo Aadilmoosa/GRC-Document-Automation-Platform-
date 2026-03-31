@@ -218,7 +218,7 @@ major GRC framework:
 GRC Analyst · Dallas, TX
 ISC2 Certified in Cybersecurity (CC) · CISA Candidate
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) ·
+[LinkedIn](www.linkedin.com/in/aadil-moosa-) ·
 [GitHub](https://github.com/Aadilmoosa)
 
 
