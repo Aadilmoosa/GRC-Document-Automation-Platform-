@@ -216,22 +216,6 @@ free tools like Pandoc or online Markdown converters.
 
 ---
 
-## Portfolio Context
-
-This tool is part of a broader GRC portfolio built during active CISA exam
-preparation. The full portfolio demonstrates practical application of every
-major GRC framework:
-
-| Project | Type | Fictional Company | Framework |
-|---|---|---|---|
-| SOC 2 Readiness Program | GRC Deliverable | Meridian Analytics | SOC 2 Type II |
-| NIST CSF 2.0 Assessment | GRC Deliverable | Veridian Health | NIST CSF 2.0 |
-| ISO 27001 Gap Analysis | GRC Deliverable | Crestline Payments | ISO/IEC 27001:2022 |
-| Risk Register | GRC Deliverable | Axiom Pay | ISO 27001 / NIST 800-30 |
-| Policy Library | GRC Deliverable | Luminary Learning | Multi-framework |
-| ITGC Audit Program & Workpapers | CISA Deliverable | Callisto Cloud | ISACA / COSO / PCAOB AS 2201 |
-| GRC Document Automation Platform | Tool | — | All five frameworks |
-
 ---
 
 ## About
